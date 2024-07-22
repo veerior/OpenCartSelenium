@@ -1,0 +1,45 @@
+package pageObjects;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class Practice {
+
+	 public static FileInputStream fi;
+	 public static XSSFWorkbook wb;
+	 public static XSSFSheet sh;
+	 public static XSSFRow row;
+	 
+	
+	
+    public static void main(String[] args) throws IOException {
+        int numerator = 10;
+        int denominator = 0;
+        
+        int rownum=0;
+        
+      
+        
+        try {
+            // This will cause an ArithmeticException (division by zero)
+            int result = numerator / denominator;
+            System.out.println("Result: " + result);
+        } catch (ArithmeticException e) {
+            System.out.println(e.getMessage());
+        } 
+        
+       fi= new FileInputStream("C:\\");
+        wb= new XSSFWorkbook(fi);
+        sh= wb.getSheet("");
+        int rowcount=sh.getLastRowNum();
+        row= sh.getRow(rownum);
+        int colcount=row.getLastCellNum();
+        
+        
+        System.out.println("Program continues after the catch block.");
+    }
+}

@@ -1,0 +1,13 @@
+2024-07-19 14:17:20 INFO  TC_001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-19 14:19:41 INFO  TC_001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-19 14:19:41 INFO  TC_001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:22 - Clicked on Register 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:27 - Provided First Name 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:30 - Provided Last Name 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:34 - Provided Email 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:37 - Provided Telephone 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:40 - Provided Password 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-07-19 14:19:42 INFO  TC_001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-07-19 14:19:43 INFO  TC_001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-07-19 14:19:45 INFO  TC_001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
