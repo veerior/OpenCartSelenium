@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 8 -Maven, GIT, Github &amp; Jenkins\Step12-Execute Pom"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step11-DockerSetup\resources"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step11-DockerSetup"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step10-Grid\testBase"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step10-Grid\resources"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part3-Crossbrowser tests"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part8-Extent report"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part8-Extent report\utilities"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part8-Extent report\testBase"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part4-Reading PropertiesFile\testBase"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part5-Login Test\testCases"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part3-Crossbrowser tests\testBase"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part7-Grouping"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part7-Grouping\testBase"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part7-Grouping\testCases"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\testData"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\utilities"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\testCases"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\pageObjects"/>
+			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part5-Login Test"/>
+		</list>
+	</section>
+</section>

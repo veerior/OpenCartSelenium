@@ -1,0 +1,17 @@
+package pageObjects;
+
+import org.testng.Assert;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		
+		String a="Pratap";
+		
+		try {
+		Assert.assertEquals(a,"5");}
+		catch(Exception e){}
+
+	}
+
+}

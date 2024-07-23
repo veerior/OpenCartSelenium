@@ -1,0 +1,25 @@
+package pageObjects;
+
+import org.testng.Assert;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		
+		String a="Pratap";
+		int i=5;
+		int j=15;
+		int k=i+j;
+		
+		try {
+			if (k!=10) {throw new Exception ()}
+			
+		}
+		catch(Exception e){
+			System.out.println("Error is:"+e.getMessage());
+			
+			}
+
+	}
+
+}

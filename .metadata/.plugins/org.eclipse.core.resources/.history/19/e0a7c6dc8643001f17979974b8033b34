@@ -1,0 +1,19 @@
+2024-07-16 11:02:19 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-16 11:02:19 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-16 11:02:20 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-16 11:02:20 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-16 11:02:24 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-16 11:02:24 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-16 11:03:04 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-16 11:03:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-16 11:03:05 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-16 11:03:05 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-16 11:03:08 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-16 11:03:08 ERROR TC001_AccountRegistrationTest:56 - Test failed: Confirmation message mismatch expected [Yourr Account Has Been Created!] but found [Your Account Has Been Created!]
+2024-07-16 11:03:08 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-16 11:10:04 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-16 11:10:04 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-16 11:10:05 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-16 11:10:05 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-16 11:10:08 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-16 11:10:08 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
