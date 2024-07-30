@@ -1,0 +1,21 @@
+package pageObjects;
+
+public class Practice2 extends Practice3{
+	
+	int a=2;
+	
+	public void coffee() {
+		System.out.println("practice2 method");
+	}
+	
+	
+
+	public static void main(String[] args) {
+		
+		Practice3 pr= new Practice3();
+		pr.tea();
+		
+
+	}
+
+}

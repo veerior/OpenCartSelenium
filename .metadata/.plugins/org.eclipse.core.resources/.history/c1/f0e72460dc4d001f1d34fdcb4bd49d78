@@ -1,0 +1,21 @@
+package pavan_classes;
+
+import java.util.Arrays;
+
+public class Arrayconcept {
+
+	
+	int[] ar=new int[10];
+	int[] arr={1,2,3,4,5};
+	
+	
+	void pull() {for (int a:arr) {System.out.println(a);};};
+	
+	public static void main(String[] args) {
+		
+		Arrayconcept ac=new Arrayconcept();
+			ac.pull();
+
+	}
+
+}

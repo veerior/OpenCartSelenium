@@ -1,0 +1,43 @@
+package pageObjects;
+
+class haha{void method(){}}
+
+public class Practice2{
+	
+	int a=2;
+	int b=22;
+	
+	
+	
+	
+	public void coffee() {
+		int a=5;
+		System.out.println("practice2 method");
+		System.out.println(a);
+		System.out.println(b);
+	}
+	
+	public void milk() {
+		int a=9;
+		System.out.println("milk method");
+		System.out.println(a);
+	}
+	
+
+	public static void main(String[] args) {
+		
+//		Practice3 pr3=new Practice3();
+//		Practice2 pr= new Practice2();
+//		pr.coffee();
+//		pr.milk();
+//		new Practice2().b=222;
+//		new Practice2().b=2222;
+//		new Practice2().coffee();
+//		new Practice2().milk();
+		
+		
+		
+
+	}
+
+}

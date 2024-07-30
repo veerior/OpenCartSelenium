@@ -1,0 +1,42 @@
+package pageObjects;
+class haha{void method(){System.out.println("haha");	}}
+
+public class Practice3 extends Practice2{
+
+	
+	int a=20;
+	public static void tea() {
+		System.out.println("practice3 method");
+		int a=10;
+		System.out.println(a);
+		
+	}
+	
+	public void coffee() {
+		System.out.println("practice3 method");
+		System.out.println(a);
+	}
+	
+	
+	
+	void sample() {
+		int a=100;
+		coffee();
+		tea();
+		
+	}	
+	
+	
+	
+	public static void main(String[] args) {
+		Practice3 pr=new Practice3();
+		pr.tea();
+		pr.coffee();
+		System.out.println(pr.a);
+		pr.sample();
+		pr.milk();
+		haha h=new haha();
+		h.method();
+	} 
+
+}

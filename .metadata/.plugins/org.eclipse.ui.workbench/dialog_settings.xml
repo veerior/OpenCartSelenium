@@ -10,6 +10,9 @@
 		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
 		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\Pavan classes (Selenium, Java, Frameworks)\Section 8 -Maven, GIT, Github &amp; Jenkins\OpencartV121"/>
+			<item value="E:\Pavan classes (Selenium, Java, Frameworks)\Section 3 - Selenium WebDriver\ClassDemos"/>
+			<item value="E:\Pavan classes (Selenium, Java, Frameworks)\Section 3 - Selenium WebDriver"/>
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 8 -Maven, GIT, Github &amp; Jenkins\Step12-Execute Pom"/>
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step11-DockerSetup\resources"/>
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Step11-DockerSetup"/>
@@ -27,9 +30,6 @@
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part7-Grouping\testCases"/>
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\testData"/>
 			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\utilities"/>
-			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\testCases"/>
-			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part6-Login Data Driven Test\pageObjects"/>
-			<item value="D:\Pavan classes (Selenium, Java, Frameworks)\Section 7 - Hybrid Driven Framework dev with project(ecommerce)\Part5-Login Test"/>
 		</list>
 	</section>
 </section>

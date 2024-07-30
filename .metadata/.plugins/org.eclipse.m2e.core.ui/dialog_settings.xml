@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Dell\Desktop\Selenium course\may21"/>
 			<item value="C:\Users\Dell\Desktop\Selenium course\may21\src\test\java"/>
 			<item value="C:\Users\Dell\Desktop\Selenium course\assignments\src\selenium_assignments\Assignment1_1.java"/>
 			<item value="C:\Users\Dell\Desktop\Selenium course\testing"/>
@@ -46,17 +47,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="OpenCart"/>
-			<item value="tes"/>
-			<item value="may21"/>
-			<item value="testing"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="OpenCart"/>
-			<item value="may21"/>
-			<item value="testing"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

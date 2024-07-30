@@ -1,0 +1,26 @@
+package pageObjects;
+
+public class Practice3 {
+
+	static int a=20;
+	public void tea() {
+		System.out.println("practice3 method");
+		System.out.println(a);
+		int a=10;
+	}
+	
+	public void coffee() {
+		System.out.println("practice3 method");
+		System.out.println(a);
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		Practice3 pr=new Practice3();
+		pr.tea();
+		pr.coffee();
+		
+	} 
+
+}

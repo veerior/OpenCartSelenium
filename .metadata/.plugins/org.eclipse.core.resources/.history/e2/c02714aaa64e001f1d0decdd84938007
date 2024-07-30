@@ -1,0 +1,14 @@
+ackage testCases;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Sample {
+
+	public static WebDriver driver=new ChromeDriver();
+	WebElement a =driver.findElement(By.id(""));
+	
+
+}

@@ -1,0 +1,25 @@
+package pageObjects;
+
+public class Practice3 {
+
+	
+	public void tea() {
+		System.out.println("practice3 method");
+		
+	}
+	
+	static Practice3 pr=new Practice3();
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+			pr.tea();
+		
+		
+		Practice2 pr2=new Practice2();
+		pr2.coffee();
+	} 
+
+}

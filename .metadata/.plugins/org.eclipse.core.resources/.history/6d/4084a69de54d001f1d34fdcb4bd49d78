@@ -1,0 +1,39 @@
+package pavan_classes;
+
+import java.util.Arrays;
+
+import java.util.ArrayList;
+
+public class Arrayconcept {
+
+	
+	
+	 
+	public static void main(String[] args) {
+		
+		ArrayList arl=new ArrayList();
+		arl.add(1);
+		arl.add(null);
+		
+		System.out.println(arl.size());
+		arl.remove(1);
+		System.out.println(arl.size());
+		int[] arr={1,2,3,4,5};
+		
+		for (int a:arr) {System.out.println(a);};
+		
+		String[] name= {"Pratap","Sejal"};
+		String n="Pratap";
+		
+		char[] c= n.toCharArray();
+		for (char r:c) {System.out.println(r);};
+		
+		System.out.println(n.getClass());
+		System.out.println(c.getClass());
+		char[] p= {'a','b','c'};
+		System.out.println(p);
+
+
+	}
+
+}
